@@ -1,0 +1,23 @@
+th,tr,td{
+ border: 1px solid red;
+ padding: 10px;
+
+}
+th{
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+td{
+  background-color: lightgray;
+
+}
+.table{
+  
+}
+#maindiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

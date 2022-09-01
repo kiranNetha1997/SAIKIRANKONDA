@@ -1,0 +1,36 @@
+.btn-btn-primary{
+    background-color:#0A58CA;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50px;
+    color: azure;
+    margin: 20px;
+}
+.card-img-top{
+    padding: 50px;
+}
+.main{
+    padding: 30px;
+    
+}
+
+.btn-btn-primary:hover{
+    color: white;
+    background-color: aquamarine;
+}
+
+button{
+    margin-top: 10px;
+}
+.username{
+    margin-bottom: 10px;
+}
+.h1{
+    color: blueviolet;
+    background-color: turquoise;
+}
+.h1:hover{
+    color:green;
+    background-color: antiquewhite;
+}
+

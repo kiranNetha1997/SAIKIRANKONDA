@@ -1,0 +1,36 @@
+
+.table{
+   border-left: 1px solid black;
+   border-top: 1px solid black;
+    margin-left: 140px;
+}
+
+th,td{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+tr{
+  text-align: center;
+}
+.head{
+    background-color: aqua;
+}
+.body{
+    background-color: azure;
+
+}
+.th{
+    padding: 10px;
+    text-align: center;
+}
+button{
+    background-color: darkseagreen;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: red;
+}

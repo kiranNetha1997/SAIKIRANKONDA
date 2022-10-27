@@ -11,8 +11,8 @@ function Nav() {
                 </center>
                 <li>  <Link to='./register'> Register</Link> </li>
 
-                <li><Link to='./login'> <li>LogIn</li></Link></li>
-            </ul>
+          <li><Link to='./login'> <li>LogIn</li></Link></li>
+              </ul>
 
 
 
